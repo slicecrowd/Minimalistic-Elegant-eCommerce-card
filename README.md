@@ -1,1 +1,1 @@
-# Minimalistic-Elegant-eCommerce-card
+# Minimalistic & Elegant eCommerce card
